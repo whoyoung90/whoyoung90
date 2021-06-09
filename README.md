@@ -15,8 +15,6 @@
 <br />
 ⚡ rocketpunch : https://www.rocketpunch.com/@priy2002
 <br />
-⚡ linkedin :
-<br />
 ⚡ instagram : https://www.instagram.com/whoyoung90/
 <br />
 
