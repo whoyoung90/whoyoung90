@@ -1,6 +1,10 @@
 # Hi there, I'm WooYoung 👋
 <br />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/whoyoung90/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=whoyoung90&hide=stars&count_private=true&show_icons=true&theme=tokyonight)
+
+
 ## Connect with me 📫
 
 ⚡ gmail : priy2002@gmail.com
