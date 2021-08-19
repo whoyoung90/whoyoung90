@@ -1,4 +1,6 @@
-# Hi there, I'm WooYoung 👋
+# Hi there, I'm WooYoung 👋 
+
+Front-End Developer 🧑🏻‍💻
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/whoyoung90/github-readme-stats)
