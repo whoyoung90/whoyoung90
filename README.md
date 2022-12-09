@@ -1,4 +1,4 @@
-# Hi there, I'm WooYoung 👋 
+# Wooyoung's GitHub 👋 
 
 Front-End Developer 🧑🏻‍💻
 <br />
@@ -11,12 +11,9 @@ Front-End Developer 🧑🏻‍💻
 
 ⚡ gmail : priy2002@gmail.com
 <br />
-⚡ gitHub: https://github.com/whoyoung90
+⚡ blog: https://whoyoung90.tistory.com/
 <br />
-⚡ rocketpunch : https://www.rocketpunch.com/@priy2002
-<br />
-⚡ instagram : https://www.instagram.com/whoyoung90/
-<br />
+
 
 ## Languages and Tools:
 
