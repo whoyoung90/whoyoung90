@@ -9,7 +9,7 @@ Front-End Developer 🧑🏻‍💻
 
 ## Connect with me 📫
 
-⚡ gmail: priy2002@gmail.com
+⚡ e-mail: whoyoung90@naver.com
 <br />
 ⚡ blog: https://whoyoung90.tistory.com/
 <br />
